@@ -1,0 +1,153 @@
+#niche{
+			/*text-align: center ;*/
+			margin-left: 468px;
+			font-family:Consolas;
+			font-weight: normal;
+			font-size: 35px;
+			color: limegreen;
+			margin-bottom: -60px;
+			padding-bottom: -5px  ;
+			border-bottom: 100p ;
+			background-color: #303841;
+
+		}
+		h2{
+			
+			font-family: Consolas ;
+			font-weight: bold;
+			font-style: italic;
+			margin-left:468px;
+			margin-top: 6%;
+			margin-right: 415px;
+			color: limegreen;
+			/*text-align: center ;*/
+
+			background-color:#303841;
+
+
+		}
+		/*#craig{
+			background-color: #ECF0F1;
+
+		}
+         */
+         h3{
+            margin-top: 200px ;
+            margin-left: 100px;
+            font-family: Consolas;
+            color: #60B4B4;
+         }
+		
+		#king{
+			
+			font-family: Consolas;
+			background-color: #303841;
+			color: #9DCAE9;
+			margin-left: 7%;
+			margin-top: 6%;
+		}
+		
+		button{
+			transition-duration: 0.4s;
+			background-color: #2874A6 ;
+			border-radius:200px ;
+			font-family: Consolas;
+			font-size: 20px;
+			font-weight: bold;
+			margin-left: 20px;
+			margin-top: -100px;
+			border: none;
+
+
+		}
+		button:hover{
+			background-color: #2874A6; 
+            color: white;
+		}
+		#nat{
+			font-family:Consolas;
+			font-weight: normal;
+			color: lightblue;
+			background-color: #303841;
+			font-size: 15px;
+			
+		}
+		#stagy{
+			
+			font-family: Arial;
+			margin-left: 7%;
+			margin-top: 6%;
+
+		}
+		.body{
+			/*background-color:#2C3E50 ;*/
+			background-image:url("pexels-luis-gomes-546819.jpg") ;
+			background-size:1999px ;
+			background-repeat: no-repeat;
+		}
+		body{
+			background-color:#303841 ;
+		}
+		#mypic #gang{
+			max-width: 20%;
+			height: auto;
+
+		}
+		img{
+           display: block;
+           margin-left: 15%;
+           margin-right: auto;
+           margin-bottom: -15%;
+           width: 50%;
+        }
+        hr{
+        	background-color: #3498DBs;
+        }
+        #big{
+        	font-weight: bold;
+        	
+        	background-color: #303841;
+        }
+        #jack{
+        	margin-top: 50px ;
+            margin-left: 100px;
+            font-family: Consolas;
+            color: #60B4B4;
+        }
+       .pharaoh{
+       	height: auto;
+       	width: 20px;
+       	margin-bottom:-18px ;
+       	margin-left: -35px;
+       }
+       #shef{
+       	margin-left: 80px;
+       }
+       a{
+       	text-decoration-line: none;
+       	color: lightgreen;
+       }
+       #image{
+       	height: auto;
+       	width: 100px;
+       	margin-left:350px ;
+       
+
+       }
+      
+       #fav{
+       	text-align: center;
+       	font-family: Consolas;
+       	color:#60B4B4 ;
+       	background-color: #303841;
+       }
+       
+       #gallery{
+       	align-items: center;
+       	margin-left: 100px;
+
+       }
+       .v1{
+		    border-left: 6px ;
+		    height: 500px;
+	     }
